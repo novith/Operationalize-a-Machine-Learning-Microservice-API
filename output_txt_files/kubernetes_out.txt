@@ -1,0 +1,7 @@
+Error from server (AlreadyExists): pods "productionmlapi" already exists
+NAME              READY   STATUS    RESTARTS   AGE
+productionmlapi   1/1     Running   0          2m54s
+Forwarding from 127.0.0.1:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
