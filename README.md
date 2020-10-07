@@ -5,9 +5,9 @@ This repository contains the Udacity assignment, Operationalize a Machine Learni
 
 ## Environment requirements
 
-Docker
-hadolint
-Kubernetes and Minikube
+* Docker
+* hadolint
+* Kubernetes and Minikube
 
 ## Setup the Environment
 
