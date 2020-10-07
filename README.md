@@ -19,6 +19,16 @@ This repository contains the Udacity assignment, Operationalize a Machine Learni
     
 * Run `make install` to install the necessary dependencies
 
+### Files 
+* config.yml: CircleCI configuration file
+* Dockerfile: Dockerfile for building the image
+* Makefile: Environment setup instructions and lint tests
+* app.py: Python app that predicts housing prices through API calls
+* make_prediction.sh: Send a request to the Python flask app to get a prediction
+* run_docker.sh: Shell script to run and build a docker image, locally
+* run_kubernetes.sh: file to run the app in kubernetes
+* upload_docker.sh: file to upload the image to docker
+
 ### Running `app.py`
 
 1. Standalone:  `python app.py`
